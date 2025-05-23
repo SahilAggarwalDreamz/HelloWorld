@@ -1,0 +1,8 @@
+div {
+  background-color: red;
+  border-radius: 15%;
+  margin: 20px;
+  text-align: center;
+  display: inline-block;
+  color: white;
+}
